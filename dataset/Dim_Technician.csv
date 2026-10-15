@@ -1,0 +1,1001 @@
+Technician_ID,Technician_Name,Manager,Skill_Level,Experience,Region,State,Employment_Status
+1,Amit Sharma,Manager 001,Intermediate,2.2,Maharashtra,West,Active
+2,Rahul Sharma,Manager 001,Basic,5.8,Gujarat,West,Active
+3,Suresh Sharma,Manager 001,Intermediate,3.5,Goa,West,Active
+4,Vikram Sharma,Manager 001,Intermediate,3.7,Karnataka,South,Active
+5,Rohit Sharma,Manager 001,Intermediate,7.0,Tamil Nadu,South,Active
+6,Neha Sharma,Manager 001,Intermediate,1.2,Telangana,South,Active
+7,Priya Sharma,Manager 001,Intermediate,3.4,Kerala,South,Active
+8,Anjali Sharma,Manager 001,Intermediate,6.5,Andhra Pradesh,South,Active
+9,Karan Sharma,Manager 001,Intermediate,3.5,Delhi,North,Active
+10,Pooja Sharma,Manager 001,Intermediate,7.4,Uttar Pradesh,North,Active
+11,Arjun Sharma,Manager 001,Basic,3.7,Rajasthan,North,Active
+12,Sneha Sharma,Manager 001,Intermediate,5.0,Punjab,North,Active
+13,Manish Sharma,Manager 001,Intermediate,11.9,Haryana,North,Active
+14,Nikhil Sharma,Manager 001,Expert,8.0,West Bengal,East,Active
+15,Riya Sharma,Manager 001,Expert,5.5,Odisha,East,On Leave
+16,Akash Sharma,Manager 001,Basic,7.2,Bihar,East,Active
+17,Meera Sharma,Manager 001,Basic,2.5,Jharkhand,East,Active
+18,Varun Sharma,Manager 001,Expert,1.0,Assam,East,Active
+19,Kunal Sharma,Manager 001,Intermediate,2.2,Maharashtra,West,Active
+20,Swati Sharma,Manager 001,Basic,5.3,Gujarat,West,Inactive
+21,Amit Patil,Manager 001,Expert,6.5,Goa,West,Active
+22,Rahul Patil,Manager 001,Expert,7.2,Karnataka,South,Active
+23,Suresh Patil,Manager 001,Intermediate,1.2,Tamil Nadu,South,Active
+24,Vikram Patil,Manager 001,Intermediate,7.7,Telangana,South,Active
+25,Rohit Patil,Manager 001,Expert,7.1,Kerala,South,Active
+26,Neha Patil,Manager 001,Basic,5.7,Andhra Pradesh,South,Active
+27,Priya Patil,Manager 001,Expert,8.7,Delhi,North,Active
+28,Anjali Patil,Manager 001,Intermediate,5.8,Uttar Pradesh,North,Active
+29,Karan Patil,Manager 001,Basic,1.5,Rajasthan,North,Active
+30,Pooja Patil,Manager 001,Expert,7.6,Punjab,North,Active
+31,Arjun Patil,Manager 001,Intermediate,3.0,Haryana,North,Active
+32,Sneha Patil,Manager 001,Intermediate,6.9,West Bengal,East,Active
+33,Manish Patil,Manager 001,Expert,6.3,Odisha,East,Active
+34,Nikhil Patil,Manager 001,Expert,7.9,Bihar,East,Active
+35,Riya Patil,Manager 001,Expert,8.4,Jharkhand,East,Active
+36,Akash Patil,Manager 001,Intermediate,5.4,Assam,East,Active
+37,Meera Patil,Manager 001,Intermediate,8.2,Maharashtra,West,Active
+38,Varun Patil,Manager 001,Basic,4.3,Gujarat,West,Active
+39,Kunal Patil,Manager 001,Intermediate,4.0,Goa,West,Active
+40,Swati Patil,Manager 001,Expert,4.3,Karnataka,South,Active
+41,Amit Kumar,Manager 001,Intermediate,2.6,Tamil Nadu,South,Inactive
+42,Rahul Kumar,Manager 001,Expert,8.5,Telangana,South,Active
+43,Suresh Kumar,Manager 001,Intermediate,2.3,Kerala,South,Active
+44,Vikram Kumar,Manager 001,Intermediate,2.5,Andhra Pradesh,South,Active
+45,Rohit Kumar,Manager 001,Basic,6.2,Delhi,North,Active
+46,Neha Kumar,Manager 001,Basic,4.4,Uttar Pradesh,North,Active
+47,Priya Kumar,Manager 001,Expert,6.9,Rajasthan,North,Active
+48,Anjali Kumar,Manager 001,Intermediate,2.1,Punjab,North,Active
+49,Karan Kumar,Manager 001,Intermediate,8.5,Haryana,North,Active
+50,Pooja Kumar,Manager 001,Basic,8.5,West Bengal,East,Active
+51,Arjun Kumar,Manager 002,Intermediate,9.3,Odisha,East,Active
+52,Sneha Kumar,Manager 002,Intermediate,7.2,Bihar,East,Active
+53,Manish Kumar,Manager 002,Intermediate,6.3,Jharkhand,East,Active
+54,Nikhil Kumar,Manager 002,Expert,2.7,Assam,East,Active
+55,Riya Kumar,Manager 002,Intermediate,4.1,Maharashtra,West,Active
+56,Akash Kumar,Manager 002,Expert,6.4,Gujarat,West,Active
+57,Meera Kumar,Manager 002,Intermediate,4.2,Goa,West,Active
+58,Varun Kumar,Manager 002,Expert,4.5,Karnataka,South,Active
+59,Kunal Kumar,Manager 002,Intermediate,8.2,Tamil Nadu,South,Active
+60,Swati Kumar,Manager 002,Expert,2.8,Telangana,South,Active
+61,Amit Singh,Manager 002,Intermediate,5.6,Kerala,South,Active
+62,Rahul Singh,Manager 002,Basic,7.1,Andhra Pradesh,South,Active
+63,Suresh Singh,Manager 002,Basic,5.4,Delhi,North,Active
+64,Vikram Singh,Manager 002,Intermediate,2.0,Uttar Pradesh,North,Active
+65,Rohit Singh,Manager 002,Expert,3.1,Rajasthan,North,Active
+66,Neha Singh,Manager 002,Intermediate,2.2,Punjab,North,Active
+67,Priya Singh,Manager 002,Intermediate,2.8,Haryana,North,Active
+68,Anjali Singh,Manager 002,Intermediate,5.4,West Bengal,East,Active
+69,Karan Singh,Manager 002,Expert,7.2,Odisha,East,Active
+70,Pooja Singh,Manager 002,Expert,4.4,Bihar,East,Active
+71,Arjun Singh,Manager 002,Intermediate,1.5,Jharkhand,East,Active
+72,Sneha Singh,Manager 002,Intermediate,4.9,Assam,East,Active
+73,Manish Singh,Manager 002,Intermediate,4.7,Maharashtra,West,On Leave
+74,Nikhil Singh,Manager 002,Expert,6.9,Gujarat,West,Active
+75,Riya Singh,Manager 002,Intermediate,7.6,Goa,West,Active
+76,Akash Singh,Manager 002,Basic,4.1,Karnataka,South,Active
+77,Meera Singh,Manager 002,Expert,6.6,Tamil Nadu,South,Active
+78,Varun Singh,Manager 002,Intermediate,9.4,Telangana,South,Inactive
+79,Kunal Singh,Manager 002,Basic,7.6,Kerala,South,Active
+80,Swati Singh,Manager 002,Intermediate,5.1,Andhra Pradesh,South,Active
+81,Amit Shah,Manager 002,Intermediate,7.3,Delhi,North,Active
+82,Rahul Shah,Manager 002,Expert,3.5,Uttar Pradesh,North,Active
+83,Suresh Shah,Manager 002,Intermediate,8.6,Rajasthan,North,Active
+84,Vikram Shah,Manager 002,Expert,5.0,Punjab,North,Active
+85,Rohit Shah,Manager 002,Expert,2.1,Haryana,North,Active
+86,Neha Shah,Manager 002,Intermediate,1.2,West Bengal,East,Active
+87,Priya Shah,Manager 002,Intermediate,0.5,Odisha,East,Active
+88,Anjali Shah,Manager 002,Basic,5.9,Bihar,East,Active
+89,Karan Shah,Manager 002,Expert,2.8,Jharkhand,East,Active
+90,Pooja Shah,Manager 002,Expert,4.2,Assam,East,Active
+91,Arjun Shah,Manager 002,Intermediate,11.0,Maharashtra,West,Active
+92,Sneha Shah,Manager 002,Expert,9.6,Gujarat,West,Inactive
+93,Manish Shah,Manager 002,Intermediate,7.6,Goa,West,Active
+94,Nikhil Shah,Manager 002,Intermediate,3.4,Karnataka,South,Active
+95,Riya Shah,Manager 002,Basic,3.1,Tamil Nadu,South,Active
+96,Akash Shah,Manager 002,Basic,9.2,Telangana,South,Active
+97,Meera Shah,Manager 002,Intermediate,7.4,Kerala,South,Active
+98,Varun Shah,Manager 002,Expert,8.2,Andhra Pradesh,South,Active
+99,Kunal Shah,Manager 002,Intermediate,1.7,Delhi,North,Active
+100,Swati Shah,Manager 002,Intermediate,9.6,Uttar Pradesh,North,Active
+101,Amit Verma,Manager 003,Basic,4.4,Rajasthan,North,Active
+102,Rahul Verma,Manager 003,Intermediate,9.7,Punjab,North,Active
+103,Suresh Verma,Manager 003,Basic,0.5,Haryana,North,Active
+104,Vikram Verma,Manager 003,Intermediate,1.7,West Bengal,East,Active
+105,Rohit Verma,Manager 003,Intermediate,5.1,Odisha,East,Active
+106,Neha Verma,Manager 003,Intermediate,10.9,Bihar,East,Active
+107,Priya Verma,Manager 003,Basic,4.5,Jharkhand,East,Active
+108,Anjali Verma,Manager 003,Expert,5.2,Assam,East,Active
+109,Karan Verma,Manager 003,Intermediate,3.5,Maharashtra,West,Active
+110,Pooja Verma,Manager 003,Expert,10.3,Gujarat,West,Active
+111,Arjun Verma,Manager 003,Expert,3.8,Goa,West,Active
+112,Sneha Verma,Manager 003,Expert,5.5,Karnataka,South,Active
+113,Manish Verma,Manager 003,Expert,3.4,Tamil Nadu,South,Active
+114,Nikhil Verma,Manager 003,Intermediate,4.1,Telangana,South,Active
+115,Riya Verma,Manager 003,Expert,3.4,Kerala,South,Active
+116,Akash Verma,Manager 003,Expert,7.2,Andhra Pradesh,South,Active
+117,Meera Verma,Manager 003,Expert,0.5,Delhi,North,Active
+118,Varun Verma,Manager 003,Intermediate,1.9,Uttar Pradesh,North,On Leave
+119,Kunal Verma,Manager 003,Expert,8.9,Rajasthan,North,Active
+120,Swati Verma,Manager 003,Basic,3.9,Punjab,North,Active
+121,Amit Joshi,Manager 003,Intermediate,3.7,Haryana,North,Active
+122,Rahul Joshi,Manager 003,Intermediate,7.4,West Bengal,East,Active
+123,Suresh Joshi,Manager 003,Expert,4.3,Odisha,East,On Leave
+124,Vikram Joshi,Manager 003,Expert,3.5,Bihar,East,Active
+125,Rohit Joshi,Manager 003,Intermediate,0.5,Jharkhand,East,Active
+126,Neha Joshi,Manager 003,Intermediate,3.9,Assam,East,Active
+127,Priya Joshi,Manager 003,Expert,3.3,Maharashtra,West,Active
+128,Anjali Joshi,Manager 003,Intermediate,5.0,Gujarat,West,Active
+129,Karan Joshi,Manager 003,Intermediate,6.5,Goa,West,Active
+130,Pooja Joshi,Manager 003,Basic,8.4,Karnataka,South,Active
+131,Arjun Joshi,Manager 003,Basic,6.4,Tamil Nadu,South,Active
+132,Sneha Joshi,Manager 003,Basic,7.2,Telangana,South,Inactive
+133,Manish Joshi,Manager 003,Intermediate,7.9,Kerala,South,On Leave
+134,Nikhil Joshi,Manager 003,Expert,3.8,Andhra Pradesh,South,Active
+135,Riya Joshi,Manager 003,Intermediate,0.5,Delhi,North,Active
+136,Akash Joshi,Manager 003,Basic,8.9,Uttar Pradesh,North,Active
+137,Meera Joshi,Manager 003,Basic,3.3,Rajasthan,North,Active
+138,Varun Joshi,Manager 003,Basic,4.9,Punjab,North,Active
+139,Kunal Joshi,Manager 003,Expert,6.2,Haryana,North,Active
+140,Swati Joshi,Manager 003,Intermediate,5.2,West Bengal,East,Active
+141,Amit Desai,Manager 003,Intermediate,5.2,Odisha,East,Inactive
+142,Rahul Desai,Manager 003,Basic,7.5,Bihar,East,Active
+143,Suresh Desai,Manager 003,Expert,10.7,Jharkhand,East,Active
+144,Vikram Desai,Manager 003,Intermediate,6.0,Assam,East,Active
+145,Rohit Desai,Manager 003,Intermediate,4.7,Maharashtra,West,Active
+146,Neha Desai,Manager 003,Intermediate,7.4,Gujarat,West,Active
+147,Priya Desai,Manager 003,Intermediate,7.6,Goa,West,Active
+148,Anjali Desai,Manager 003,Expert,0.5,Karnataka,South,Inactive
+149,Karan Desai,Manager 003,Intermediate,0.5,Tamil Nadu,South,Active
+150,Pooja Desai,Manager 003,Intermediate,5.9,Telangana,South,Active
+151,Arjun Desai,Manager 004,Expert,6.9,Kerala,South,Active
+152,Sneha Desai,Manager 004,Expert,8.7,Andhra Pradesh,South,Active
+153,Manish Desai,Manager 004,Basic,4.8,Delhi,North,Active
+154,Nikhil Desai,Manager 004,Expert,4.3,Uttar Pradesh,North,Active
+155,Riya Desai,Manager 004,Intermediate,5.9,Rajasthan,North,Active
+156,Akash Desai,Manager 004,Expert,4.8,Punjab,North,Active
+157,Meera Desai,Manager 004,Intermediate,4.7,Haryana,North,Active
+158,Varun Desai,Manager 004,Expert,4.9,West Bengal,East,Inactive
+159,Kunal Desai,Manager 004,Expert,8.8,Odisha,East,On Leave
+160,Swati Desai,Manager 004,Expert,5.8,Bihar,East,Active
+161,Amit Gupta,Manager 004,Intermediate,1.6,Jharkhand,East,Active
+162,Rahul Gupta,Manager 004,Intermediate,6.3,Assam,East,Active
+163,Suresh Gupta,Manager 004,Basic,5.6,Maharashtra,West,Active
+164,Vikram Gupta,Manager 004,Intermediate,10.1,Gujarat,West,Active
+165,Rohit Gupta,Manager 004,Intermediate,7.6,Goa,West,Active
+166,Neha Gupta,Manager 004,Basic,5.4,Karnataka,South,Active
+167,Priya Gupta,Manager 004,Expert,8.7,Tamil Nadu,South,Active
+168,Anjali Gupta,Manager 004,Basic,7.2,Telangana,South,Active
+169,Karan Gupta,Manager 004,Intermediate,0.7,Kerala,South,Active
+170,Pooja Gupta,Manager 004,Expert,8.6,Andhra Pradesh,South,Active
+171,Arjun Gupta,Manager 004,Intermediate,3.8,Delhi,North,Active
+172,Sneha Gupta,Manager 004,Expert,8.3,Uttar Pradesh,North,On Leave
+173,Manish Gupta,Manager 004,Basic,5.0,Rajasthan,North,Active
+174,Nikhil Gupta,Manager 004,Intermediate,7.0,Punjab,North,Inactive
+175,Riya Gupta,Manager 004,Intermediate,7.8,Haryana,North,Active
+176,Akash Gupta,Manager 004,Basic,1.4,West Bengal,East,Active
+177,Meera Gupta,Manager 004,Basic,2.2,Odisha,East,Active
+178,Varun Gupta,Manager 004,Expert,6.2,Bihar,East,Active
+179,Kunal Gupta,Manager 004,Intermediate,3.9,Jharkhand,East,Active
+180,Swati Gupta,Manager 004,Basic,3.8,Assam,East,Active
+181,Amit Mehta,Manager 004,Basic,1.4,Maharashtra,West,Active
+182,Rahul Mehta,Manager 004,Intermediate,4.5,Gujarat,West,Active
+183,Suresh Mehta,Manager 004,Basic,6.3,Goa,West,Active
+184,Vikram Mehta,Manager 004,Expert,8.0,Karnataka,South,On Leave
+185,Rohit Mehta,Manager 004,Basic,7.1,Tamil Nadu,South,Active
+186,Neha Mehta,Manager 004,Basic,3.4,Telangana,South,Active
+187,Priya Mehta,Manager 004,Intermediate,10.9,Kerala,South,Active
+188,Anjali Mehta,Manager 004,Intermediate,4.2,Andhra Pradesh,South,Active
+189,Karan Mehta,Manager 004,Basic,7.1,Delhi,North,Active
+190,Pooja Mehta,Manager 004,Intermediate,2.5,Uttar Pradesh,North,Active
+191,Arjun Mehta,Manager 004,Basic,8.8,Rajasthan,North,Active
+192,Sneha Mehta,Manager 004,Intermediate,0.5,Punjab,North,Active
+193,Manish Mehta,Manager 004,Basic,2.3,Haryana,North,Active
+194,Nikhil Mehta,Manager 004,Basic,3.4,West Bengal,East,Active
+195,Riya Mehta,Manager 004,Intermediate,7.6,Odisha,East,Active
+196,Akash Mehta,Manager 004,Basic,6.6,Bihar,East,Active
+197,Meera Mehta,Manager 004,Intermediate,3.9,Jharkhand,East,Active
+198,Varun Mehta,Manager 004,Intermediate,9.0,Assam,East,Active
+199,Kunal Mehta,Manager 004,Intermediate,0.5,Maharashtra,West,Inactive
+200,Swati Mehta,Manager 004,Intermediate,7.4,Gujarat,West,Active
+201,Amit Pawar,Manager 005,Basic,3.9,Goa,West,Active
+202,Rahul Pawar,Manager 005,Basic,3.4,Karnataka,South,Active
+203,Suresh Pawar,Manager 005,Basic,0.5,Tamil Nadu,South,Inactive
+204,Vikram Pawar,Manager 005,Basic,6.7,Telangana,South,Active
+205,Rohit Pawar,Manager 005,Expert,5.6,Kerala,South,Active
+206,Neha Pawar,Manager 005,Basic,5.7,Andhra Pradesh,South,Active
+207,Priya Pawar,Manager 005,Expert,10.1,Delhi,North,Active
+208,Anjali Pawar,Manager 005,Expert,9.0,Uttar Pradesh,North,Active
+209,Karan Pawar,Manager 005,Intermediate,5.7,Rajasthan,North,Active
+210,Pooja Pawar,Manager 005,Basic,0.5,Punjab,North,Active
+211,Arjun Pawar,Manager 005,Intermediate,2.2,Haryana,North,Active
+212,Sneha Pawar,Manager 005,Intermediate,5.7,West Bengal,East,Active
+213,Manish Pawar,Manager 005,Intermediate,3.5,Odisha,East,Active
+214,Nikhil Pawar,Manager 005,Expert,6.9,Bihar,East,Active
+215,Riya Pawar,Manager 005,Intermediate,0.6,Jharkhand,East,On Leave
+216,Akash Pawar,Manager 005,Expert,2.4,Assam,East,On Leave
+217,Meera Pawar,Manager 005,Basic,5.4,Maharashtra,West,Active
+218,Varun Pawar,Manager 005,Basic,5.2,Gujarat,West,Active
+219,Kunal Pawar,Manager 005,Intermediate,4.7,Goa,West,Active
+220,Swati Pawar,Manager 005,Intermediate,5.3,Karnataka,South,Active
+221,Amit Kulkarni,Manager 005,Basic,6.4,Tamil Nadu,South,Active
+222,Rahul Kulkarni,Manager 005,Intermediate,7.6,Telangana,South,Active
+223,Suresh Kulkarni,Manager 005,Intermediate,4.4,Kerala,South,Active
+224,Vikram Kulkarni,Manager 005,Intermediate,8.3,Andhra Pradesh,South,Active
+225,Rohit Kulkarni,Manager 005,Expert,1.0,Delhi,North,Active
+226,Neha Kulkarni,Manager 005,Intermediate,5.0,Uttar Pradesh,North,Active
+227,Priya Kulkarni,Manager 005,Expert,2.8,Rajasthan,North,On Leave
+228,Anjali Kulkarni,Manager 005,Intermediate,5.7,Punjab,North,Active
+229,Karan Kulkarni,Manager 005,Basic,6.3,Haryana,North,Active
+230,Pooja Kulkarni,Manager 005,Expert,8.1,West Bengal,East,Active
+231,Arjun Kulkarni,Manager 005,Basic,2.3,Odisha,East,Active
+232,Sneha Kulkarni,Manager 005,Basic,3.0,Bihar,East,Active
+233,Manish Kulkarni,Manager 005,Expert,4.1,Jharkhand,East,Active
+234,Nikhil Kulkarni,Manager 005,Basic,7.1,Assam,East,Active
+235,Riya Kulkarni,Manager 005,Basic,8.2,Maharashtra,West,Active
+236,Akash Kulkarni,Manager 005,Intermediate,3.9,Gujarat,West,Active
+237,Meera Kulkarni,Manager 005,Expert,8.5,Goa,West,Active
+238,Varun Kulkarni,Manager 005,Intermediate,7.5,Karnataka,South,Active
+239,Kunal Kulkarni,Manager 005,Basic,5.4,Tamil Nadu,South,Active
+240,Swati Kulkarni,Manager 005,Intermediate,7.1,Telangana,South,On Leave
+241,Amit Yadav,Manager 005,Basic,5.5,Kerala,South,Active
+242,Rahul Yadav,Manager 005,Basic,11.6,Andhra Pradesh,South,Active
+243,Suresh Yadav,Manager 005,Expert,9.5,Delhi,North,On Leave
+244,Vikram Yadav,Manager 005,Expert,6.5,Uttar Pradesh,North,Active
+245,Rohit Yadav,Manager 005,Intermediate,1.6,Rajasthan,North,Active
+246,Neha Yadav,Manager 005,Expert,9.7,Punjab,North,On Leave
+247,Priya Yadav,Manager 005,Intermediate,11.3,Haryana,North,Active
+248,Anjali Yadav,Manager 005,Basic,6.3,West Bengal,East,Active
+249,Karan Yadav,Manager 005,Expert,7.1,Odisha,East,Active
+250,Pooja Yadav,Manager 005,Intermediate,0.5,Bihar,East,Active
+251,Arjun Yadav,Manager 006,Expert,1.2,Maharashtra,West,Active
+252,Sneha Yadav,Manager 006,Basic,4.3,Gujarat,West,Active
+253,Manish Yadav,Manager 006,Intermediate,7.0,Goa,West,Active
+254,Nikhil Yadav,Manager 006,Intermediate,4.6,Karnataka,South,Active
+255,Riya Yadav,Manager 006,Basic,2.5,Tamil Nadu,South,On Leave
+256,Akash Yadav,Manager 006,Basic,6.3,Telangana,South,Active
+257,Meera Yadav,Manager 006,Basic,5.0,Kerala,South,Active
+258,Varun Yadav,Manager 006,Basic,5.4,Andhra Pradesh,South,Active
+259,Kunal Yadav,Manager 006,Intermediate,4.7,Delhi,North,Active
+260,Swati Yadav,Manager 006,Basic,5.4,Uttar Pradesh,North,Active
+261,Amit Nair,Manager 006,Intermediate,8.5,Rajasthan,North,Active
+262,Rahul Nair,Manager 006,Intermediate,0.5,Punjab,North,Active
+263,Suresh Nair,Manager 006,Basic,5.7,Haryana,North,On Leave
+264,Vikram Nair,Manager 006,Intermediate,4.4,West Bengal,East,Active
+265,Rohit Nair,Manager 006,Intermediate,4.1,Odisha,East,Active
+266,Neha Nair,Manager 006,Expert,4.8,Bihar,East,Active
+267,Priya Nair,Manager 006,Basic,3.2,Jharkhand,East,Active
+268,Anjali Nair,Manager 006,Basic,3.2,Assam,East,Active
+269,Karan Nair,Manager 006,Expert,6.3,Maharashtra,West,Active
+270,Pooja Nair,Manager 006,Basic,2.4,Gujarat,West,Active
+271,Arjun Nair,Manager 006,Expert,5.6,Goa,West,Active
+272,Sneha Nair,Manager 006,Intermediate,5.6,Karnataka,South,Active
+273,Manish Nair,Manager 006,Intermediate,0.8,Tamil Nadu,South,Active
+274,Nikhil Nair,Manager 006,Expert,9.4,Telangana,South,Active
+275,Riya Nair,Manager 006,Intermediate,8.3,Kerala,South,Active
+276,Akash Nair,Manager 006,Intermediate,0.6,Andhra Pradesh,South,Active
+277,Meera Nair,Manager 006,Intermediate,0.6,Delhi,North,On Leave
+278,Varun Nair,Manager 006,Expert,3.6,Uttar Pradesh,North,Active
+279,Kunal Nair,Manager 006,Expert,7.4,Rajasthan,North,Active
+280,Swati Nair,Manager 006,Intermediate,4.9,Punjab,North,Active
+281,Amit Iyer,Manager 006,Intermediate,10.4,Haryana,North,Active
+282,Rahul Iyer,Manager 006,Basic,6.7,West Bengal,East,Active
+283,Suresh Iyer,Manager 006,Expert,1.8,Odisha,East,Active
+284,Vikram Iyer,Manager 006,Basic,5.3,Bihar,East,Active
+285,Rohit Iyer,Manager 006,Basic,0.9,Jharkhand,East,Active
+286,Neha Iyer,Manager 006,Intermediate,6.4,Assam,East,Active
+287,Priya Iyer,Manager 006,Intermediate,9.1,Maharashtra,West,Active
+288,Anjali Iyer,Manager 006,Basic,8.9,Gujarat,West,Active
+289,Karan Iyer,Manager 006,Intermediate,6.0,Goa,West,Active
+290,Pooja Iyer,Manager 006,Basic,0.5,Karnataka,South,Active
+291,Arjun Iyer,Manager 006,Basic,1.4,Tamil Nadu,South,Active
+292,Sneha Iyer,Manager 006,Intermediate,6.5,Telangana,South,Active
+293,Manish Iyer,Manager 006,Expert,6.4,Kerala,South,Active
+294,Nikhil Iyer,Manager 006,Intermediate,0.6,Andhra Pradesh,South,On Leave
+295,Riya Iyer,Manager 006,Expert,6.5,Delhi,North,Active
+296,Akash Iyer,Manager 006,Intermediate,1.2,Uttar Pradesh,North,Active
+297,Meera Iyer,Manager 006,Intermediate,4.1,Rajasthan,North,Active
+298,Varun Iyer,Manager 006,Expert,5.6,Punjab,North,Active
+299,Kunal Iyer,Manager 006,Intermediate,1.1,Haryana,North,Active
+300,Swati Iyer,Manager 006,Expert,4.0,West Bengal,East,Active
+301,Amit Reddy,Manager 007,Intermediate,0.6,Odisha,East,Active
+302,Rahul Reddy,Manager 007,Expert,7.9,Bihar,East,Active
+303,Suresh Reddy,Manager 007,Expert,1.7,Jharkhand,East,Active
+304,Vikram Reddy,Manager 007,Expert,4.4,Assam,East,Active
+305,Rohit Reddy,Manager 007,Expert,8.2,Maharashtra,West,Active
+306,Neha Reddy,Manager 007,Intermediate,7.7,Gujarat,West,Active
+307,Priya Reddy,Manager 007,Intermediate,7.0,Goa,West,Active
+308,Anjali Reddy,Manager 007,Intermediate,5.3,Karnataka,South,Active
+309,Karan Reddy,Manager 007,Expert,7.8,Tamil Nadu,South,Active
+310,Pooja Reddy,Manager 007,Intermediate,4.8,Telangana,South,Active
+311,Arjun Reddy,Manager 007,Basic,1.5,Kerala,South,Active
+312,Sneha Reddy,Manager 007,Basic,6.3,Andhra Pradesh,South,Active
+313,Manish Reddy,Manager 007,Intermediate,4.3,Delhi,North,Active
+314,Nikhil Reddy,Manager 007,Intermediate,5.3,Uttar Pradesh,North,Active
+315,Riya Reddy,Manager 007,Intermediate,7.2,Rajasthan,North,Active
+316,Akash Reddy,Manager 007,Intermediate,5.7,Punjab,North,Active
+317,Meera Reddy,Manager 007,Expert,6.8,Haryana,North,Active
+318,Varun Reddy,Manager 007,Expert,5.1,West Bengal,East,Active
+319,Kunal Reddy,Manager 007,Expert,3.7,Odisha,East,Active
+320,Swati Reddy,Manager 007,Expert,0.5,Bihar,East,Inactive
+321,Amit Das,Manager 007,Expert,0.8,Jharkhand,East,Active
+322,Rahul Das,Manager 007,Intermediate,0.6,Assam,East,Active
+323,Suresh Das,Manager 007,Intermediate,2.5,Maharashtra,West,Active
+324,Vikram Das,Manager 007,Basic,2.4,Gujarat,West,Active
+325,Rohit Das,Manager 007,Expert,0.5,Goa,West,Active
+326,Neha Das,Manager 007,Intermediate,2.0,Karnataka,South,On Leave
+327,Priya Das,Manager 007,Expert,4.6,Tamil Nadu,South,Active
+328,Anjali Das,Manager 007,Expert,2.9,Telangana,South,Active
+329,Karan Das,Manager 007,Intermediate,7.9,Kerala,South,Active
+330,Pooja Das,Manager 007,Intermediate,9.1,Andhra Pradesh,South,Active
+331,Arjun Das,Manager 007,Intermediate,6.4,Delhi,North,Active
+332,Sneha Das,Manager 007,Basic,3.4,Uttar Pradesh,North,On Leave
+333,Manish Das,Manager 007,Expert,4.1,Rajasthan,North,Active
+334,Nikhil Das,Manager 007,Intermediate,2.1,Punjab,North,Active
+335,Riya Das,Manager 007,Expert,3.2,Haryana,North,Active
+336,Akash Das,Manager 007,Intermediate,3.2,West Bengal,East,Active
+337,Meera Das,Manager 007,Basic,4.1,Odisha,East,Active
+338,Varun Das,Manager 007,Expert,6.5,Bihar,East,On Leave
+339,Kunal Das,Manager 007,Expert,6.4,Jharkhand,East,Active
+340,Swati Das,Manager 007,Basic,7.7,Assam,East,Active
+341,Amit Mishra,Manager 007,Intermediate,7.2,Maharashtra,West,Active
+342,Rahul Mishra,Manager 007,Basic,2.6,Gujarat,West,Active
+343,Suresh Mishra,Manager 007,Intermediate,0.5,Goa,West,Active
+344,Vikram Mishra,Manager 007,Expert,2.8,Karnataka,South,Active
+345,Rohit Mishra,Manager 007,Intermediate,0.9,Tamil Nadu,South,Active
+346,Neha Mishra,Manager 007,Expert,6.2,Telangana,South,Active
+347,Priya Mishra,Manager 007,Expert,6.0,Kerala,South,Active
+348,Anjali Mishra,Manager 007,Intermediate,6.8,Andhra Pradesh,South,Active
+349,Karan Mishra,Manager 007,Intermediate,3.4,Delhi,North,Active
+350,Pooja Mishra,Manager 007,Expert,6.2,Uttar Pradesh,North,Active
+351,Arjun Mishra,Manager 008,Expert,4.1,Rajasthan,North,Active
+352,Sneha Mishra,Manager 008,Basic,2.9,Punjab,North,Active
+353,Manish Mishra,Manager 008,Expert,4.4,Haryana,North,Active
+354,Nikhil Mishra,Manager 008,Intermediate,5.0,West Bengal,East,Inactive
+355,Riya Mishra,Manager 008,Intermediate,6.9,Odisha,East,Active
+356,Akash Mishra,Manager 008,Expert,1.6,Bihar,East,Active
+357,Meera Mishra,Manager 008,Expert,6.3,Jharkhand,East,Active
+358,Varun Mishra,Manager 008,Intermediate,5.1,Assam,East,On Leave
+359,Kunal Mishra,Manager 008,Basic,5.4,Maharashtra,West,Active
+360,Swati Mishra,Manager 008,Intermediate,6.0,Gujarat,West,Active
+361,Amit Jain,Manager 008,Basic,0.5,Goa,West,Active
+362,Rahul Jain,Manager 008,Basic,7.4,Karnataka,South,Active
+363,Suresh Jain,Manager 008,Expert,5.9,Tamil Nadu,South,Active
+364,Vikram Jain,Manager 008,Basic,3.7,Telangana,South,Active
+365,Rohit Jain,Manager 008,Intermediate,6.8,Kerala,South,Active
+366,Neha Jain,Manager 008,Intermediate,7.7,Andhra Pradesh,South,Inactive
+367,Priya Jain,Manager 008,Intermediate,1.9,Delhi,North,Active
+368,Anjali Jain,Manager 008,Intermediate,4.6,Uttar Pradesh,North,Active
+369,Karan Jain,Manager 008,Basic,7.8,Rajasthan,North,Active
+370,Pooja Jain,Manager 008,Expert,8.3,Punjab,North,Active
+371,Arjun Jain,Manager 008,Intermediate,4.7,Haryana,North,Active
+372,Sneha Jain,Manager 008,Intermediate,6.6,West Bengal,East,Active
+373,Manish Jain,Manager 008,Expert,7.2,Odisha,East,Active
+374,Nikhil Jain,Manager 008,Intermediate,4.5,Bihar,East,Active
+375,Riya Jain,Manager 008,Intermediate,7.4,Jharkhand,East,Active
+376,Akash Jain,Manager 008,Expert,4.1,Assam,East,Active
+377,Meera Jain,Manager 008,Expert,6.8,Maharashtra,West,Active
+378,Varun Jain,Manager 008,Expert,6.8,Gujarat,West,Active
+379,Kunal Jain,Manager 008,Basic,8.1,Goa,West,Active
+380,Swati Jain,Manager 008,Basic,6.2,Karnataka,South,Active
+381,Amit Chavan,Manager 008,Intermediate,1.6,Tamil Nadu,South,Active
+382,Rahul Chavan,Manager 008,Basic,4.2,Telangana,South,Active
+383,Suresh Chavan,Manager 008,Intermediate,3.4,Kerala,South,Active
+384,Vikram Chavan,Manager 008,Basic,7.5,Andhra Pradesh,South,Active
+385,Rohit Chavan,Manager 008,Intermediate,11.2,Delhi,North,Active
+386,Neha Chavan,Manager 008,Intermediate,3.8,Uttar Pradesh,North,Active
+387,Priya Chavan,Manager 008,Expert,4.9,Rajasthan,North,Active
+388,Anjali Chavan,Manager 008,Intermediate,3.6,Punjab,North,Inactive
+389,Karan Chavan,Manager 008,Basic,11.0,Haryana,North,Active
+390,Pooja Chavan,Manager 008,Intermediate,4.9,West Bengal,East,Active
+391,Arjun Chavan,Manager 008,Intermediate,2.8,Odisha,East,Active
+392,Sneha Chavan,Manager 008,Basic,5.1,Bihar,East,Active
+393,Manish Chavan,Manager 008,Intermediate,5.5,Jharkhand,East,Active
+394,Nikhil Chavan,Manager 008,Expert,2.3,Assam,East,Active
+395,Riya Chavan,Manager 008,Basic,5.7,Maharashtra,West,Active
+396,Akash Chavan,Manager 008,Basic,3.0,Gujarat,West,On Leave
+397,Meera Chavan,Manager 008,Basic,9.5,Goa,West,Active
+398,Varun Chavan,Manager 008,Expert,5.9,Karnataka,South,Active
+399,Kunal Chavan,Manager 008,Intermediate,5.3,Tamil Nadu,South,Active
+400,Swati Chavan,Manager 008,Intermediate,7.4,Telangana,South,Active
+401,Amit Sharma,Manager 009,Intermediate,4.1,Kerala,South,Active
+402,Rahul Sharma,Manager 009,Intermediate,5.5,Andhra Pradesh,South,Active
+403,Suresh Sharma,Manager 009,Expert,2.4,Delhi,North,Active
+404,Vikram Sharma,Manager 009,Intermediate,3.7,Uttar Pradesh,North,Active
+405,Rohit Sharma,Manager 009,Intermediate,2.7,Rajasthan,North,Inactive
+406,Neha Sharma,Manager 009,Expert,6.9,Punjab,North,Active
+407,Priya Sharma,Manager 009,Basic,3.7,Haryana,North,Active
+408,Anjali Sharma,Manager 009,Intermediate,5.5,West Bengal,East,Active
+409,Karan Sharma,Manager 009,Expert,7.3,Odisha,East,Active
+410,Pooja Sharma,Manager 009,Intermediate,7.2,Bihar,East,Active
+411,Arjun Sharma,Manager 009,Expert,1.1,Jharkhand,East,Active
+412,Sneha Sharma,Manager 009,Intermediate,10.0,Assam,East,Active
+413,Manish Sharma,Manager 009,Expert,0.9,Maharashtra,West,Active
+414,Nikhil Sharma,Manager 009,Expert,3.6,Gujarat,West,Active
+415,Riya Sharma,Manager 009,Intermediate,8.4,Goa,West,Active
+416,Akash Sharma,Manager 009,Expert,6.9,Karnataka,South,Active
+417,Meera Sharma,Manager 009,Basic,5.8,Tamil Nadu,South,Active
+418,Varun Sharma,Manager 009,Intermediate,4.3,Telangana,South,Active
+419,Kunal Sharma,Manager 009,Intermediate,0.5,Kerala,South,Active
+420,Swati Sharma,Manager 009,Basic,5.6,Andhra Pradesh,South,Active
+421,Amit Patil,Manager 009,Expert,7.0,Delhi,North,Active
+422,Rahul Patil,Manager 009,Expert,1.9,Uttar Pradesh,North,Active
+423,Suresh Patil,Manager 009,Expert,1.1,Rajasthan,North,Active
+424,Vikram Patil,Manager 009,Basic,4.3,Punjab,North,Active
+425,Rohit Patil,Manager 009,Intermediate,4.4,Haryana,North,Active
+426,Neha Patil,Manager 009,Intermediate,8.1,West Bengal,East,Active
+427,Priya Patil,Manager 009,Basic,7.1,Odisha,East,Active
+428,Anjali Patil,Manager 009,Expert,8.1,Bihar,East,Active
+429,Karan Patil,Manager 009,Intermediate,4.2,Jharkhand,East,Active
+430,Pooja Patil,Manager 009,Intermediate,5.9,Assam,East,Active
+431,Arjun Patil,Manager 009,Intermediate,4.7,Maharashtra,West,On Leave
+432,Sneha Patil,Manager 009,Intermediate,2.4,Gujarat,West,Active
+433,Manish Patil,Manager 009,Basic,5.3,Goa,West,Active
+434,Nikhil Patil,Manager 009,Intermediate,6.1,Karnataka,South,Active
+435,Riya Patil,Manager 009,Intermediate,2.8,Tamil Nadu,South,Active
+436,Akash Patil,Manager 009,Intermediate,6.0,Telangana,South,Active
+437,Meera Patil,Manager 009,Intermediate,5.7,Kerala,South,Active
+438,Varun Patil,Manager 009,Expert,3.4,Andhra Pradesh,South,Active
+439,Kunal Patil,Manager 009,Intermediate,4.9,Delhi,North,Active
+440,Swati Patil,Manager 009,Expert,10.0,Uttar Pradesh,North,Active
+441,Amit Kumar,Manager 009,Basic,5.5,Rajasthan,North,Active
+442,Rahul Kumar,Manager 009,Intermediate,6.1,Punjab,North,Active
+443,Suresh Kumar,Manager 009,Intermediate,3.1,Haryana,North,Active
+444,Vikram Kumar,Manager 009,Expert,5.7,West Bengal,East,Active
+445,Rohit Kumar,Manager 009,Expert,7.5,Odisha,East,Active
+446,Neha Kumar,Manager 009,Intermediate,4.4,Bihar,East,Active
+447,Priya Kumar,Manager 009,Expert,0.8,Jharkhand,East,Active
+448,Anjali Kumar,Manager 009,Expert,2.7,Assam,East,Active
+449,Karan Kumar,Manager 009,Expert,8.2,Maharashtra,West,Active
+450,Pooja Kumar,Manager 009,Intermediate,4.3,Gujarat,West,Active
+451,Arjun Kumar,Manager 010,Intermediate,1.8,Goa,West,Active
+452,Sneha Kumar,Manager 010,Intermediate,0.9,Karnataka,South,Active
+453,Manish Kumar,Manager 010,Intermediate,1.8,Tamil Nadu,South,Active
+454,Nikhil Kumar,Manager 010,Intermediate,3.5,Telangana,South,Active
+455,Riya Kumar,Manager 010,Intermediate,0.5,Kerala,South,Active
+456,Akash Kumar,Manager 010,Intermediate,3.3,Andhra Pradesh,South,Active
+457,Meera Kumar,Manager 010,Basic,2.1,Delhi,North,Active
+458,Varun Kumar,Manager 010,Intermediate,1.2,Uttar Pradesh,North,Active
+459,Kunal Kumar,Manager 010,Intermediate,6.7,Rajasthan,North,Active
+460,Swati Kumar,Manager 010,Expert,6.4,Punjab,North,Active
+461,Amit Singh,Manager 010,Basic,4.4,Haryana,North,On Leave
+462,Rahul Singh,Manager 010,Basic,6.0,West Bengal,East,On Leave
+463,Suresh Singh,Manager 010,Intermediate,4.9,Odisha,East,Active
+464,Vikram Singh,Manager 010,Intermediate,2.6,Bihar,East,Active
+465,Rohit Singh,Manager 010,Expert,0.5,Jharkhand,East,Active
+466,Neha Singh,Manager 010,Expert,6.0,Assam,East,Active
+467,Priya Singh,Manager 010,Intermediate,4.7,Maharashtra,West,Active
+468,Anjali Singh,Manager 010,Basic,4.6,Gujarat,West,Active
+469,Karan Singh,Manager 010,Expert,5.4,Goa,West,Active
+470,Pooja Singh,Manager 010,Expert,2.7,Karnataka,South,Active
+471,Arjun Singh,Manager 010,Expert,3.6,Tamil Nadu,South,Active
+472,Sneha Singh,Manager 010,Expert,5.2,Telangana,South,Active
+473,Manish Singh,Manager 010,Expert,4.3,Kerala,South,Active
+474,Nikhil Singh,Manager 010,Intermediate,6.0,Andhra Pradesh,South,Active
+475,Riya Singh,Manager 010,Expert,4.3,Delhi,North,Active
+476,Akash Singh,Manager 010,Expert,6.9,Uttar Pradesh,North,Active
+477,Meera Singh,Manager 010,Expert,9.5,Rajasthan,North,Active
+478,Varun Singh,Manager 010,Intermediate,2.9,Punjab,North,Active
+479,Kunal Singh,Manager 010,Intermediate,6.3,Haryana,North,Active
+480,Swati Singh,Manager 010,Intermediate,3.2,West Bengal,East,Active
+481,Amit Shah,Manager 010,Basic,8.1,Odisha,East,Active
+482,Rahul Shah,Manager 010,Intermediate,9.1,Bihar,East,Active
+483,Suresh Shah,Manager 010,Intermediate,5.8,Jharkhand,East,Active
+484,Vikram Shah,Manager 010,Intermediate,5.0,Assam,East,Active
+485,Rohit Shah,Manager 010,Intermediate,7.4,Maharashtra,West,Inactive
+486,Neha Shah,Manager 010,Basic,7.8,Gujarat,West,Active
+487,Priya Shah,Manager 010,Expert,0.9,Goa,West,Active
+488,Anjali Shah,Manager 010,Basic,6.4,Karnataka,South,Active
+489,Karan Shah,Manager 010,Basic,2.2,Tamil Nadu,South,Active
+490,Pooja Shah,Manager 010,Basic,3.2,Telangana,South,Active
+491,Arjun Shah,Manager 010,Basic,3.4,Kerala,South,Active
+492,Sneha Shah,Manager 010,Expert,6.8,Andhra Pradesh,South,Active
+493,Manish Shah,Manager 010,Intermediate,2.1,Delhi,North,Active
+494,Nikhil Shah,Manager 010,Expert,1.9,Uttar Pradesh,North,Active
+495,Riya Shah,Manager 010,Intermediate,4.3,Rajasthan,North,Active
+496,Akash Shah,Manager 010,Intermediate,9.3,Punjab,North,On Leave
+497,Meera Shah,Manager 010,Basic,2.5,Haryana,North,Active
+498,Varun Shah,Manager 010,Basic,6.6,West Bengal,East,Active
+499,Kunal Shah,Manager 010,Expert,8.3,Odisha,East,Active
+500,Swati Shah,Manager 010,Expert,2.0,Bihar,East,Active
+501,Amit Verma,Manager 011,Intermediate,5.2,Maharashtra,West,Active
+502,Rahul Verma,Manager 011,Intermediate,7.0,Gujarat,West,Active
+503,Suresh Verma,Manager 011,Basic,3.7,Goa,West,Active
+504,Vikram Verma,Manager 011,Expert,5.9,Karnataka,South,Active
+505,Rohit Verma,Manager 011,Basic,2.3,Tamil Nadu,South,Active
+506,Neha Verma,Manager 011,Basic,2.8,Telangana,South,On Leave
+507,Priya Verma,Manager 011,Intermediate,2.9,Kerala,South,Active
+508,Anjali Verma,Manager 011,Intermediate,1.0,Andhra Pradesh,South,Active
+509,Karan Verma,Manager 011,Expert,5.6,Delhi,North,Active
+510,Pooja Verma,Manager 011,Intermediate,5.0,Uttar Pradesh,North,On Leave
+511,Arjun Verma,Manager 011,Basic,3.9,Rajasthan,North,Active
+512,Sneha Verma,Manager 011,Expert,7.9,Punjab,North,Active
+513,Manish Verma,Manager 011,Expert,3.7,Haryana,North,Active
+514,Nikhil Verma,Manager 011,Basic,4.4,West Bengal,East,Active
+515,Riya Verma,Manager 011,Intermediate,5.1,Odisha,East,Active
+516,Akash Verma,Manager 011,Basic,5.4,Bihar,East,Active
+517,Meera Verma,Manager 011,Expert,11.2,Jharkhand,East,Active
+518,Varun Verma,Manager 011,Basic,4.2,Assam,East,Active
+519,Kunal Verma,Manager 011,Intermediate,4.1,Maharashtra,West,Active
+520,Swati Verma,Manager 011,Basic,2.5,Gujarat,West,Active
+521,Amit Joshi,Manager 011,Expert,6.3,Goa,West,Active
+522,Rahul Joshi,Manager 011,Intermediate,5.1,Karnataka,South,Active
+523,Suresh Joshi,Manager 011,Intermediate,5.7,Tamil Nadu,South,Active
+524,Vikram Joshi,Manager 011,Intermediate,3.0,Telangana,South,Active
+525,Rohit Joshi,Manager 011,Basic,3.3,Kerala,South,Inactive
+526,Neha Joshi,Manager 011,Basic,4.8,Andhra Pradesh,South,Active
+527,Priya Joshi,Manager 011,Expert,3.6,Delhi,North,Active
+528,Anjali Joshi,Manager 011,Intermediate,4.0,Uttar Pradesh,North,Active
+529,Karan Joshi,Manager 011,Intermediate,5.0,Rajasthan,North,Inactive
+530,Pooja Joshi,Manager 011,Expert,3.2,Punjab,North,Active
+531,Arjun Joshi,Manager 011,Intermediate,6.2,Haryana,North,Active
+532,Sneha Joshi,Manager 011,Basic,10.7,West Bengal,East,Active
+533,Manish Joshi,Manager 011,Intermediate,3.7,Odisha,East,Active
+534,Nikhil Joshi,Manager 011,Expert,2.1,Bihar,East,Active
+535,Riya Joshi,Manager 011,Expert,4.9,Jharkhand,East,Active
+536,Akash Joshi,Manager 011,Basic,4.6,Assam,East,Active
+537,Meera Joshi,Manager 011,Expert,5.3,Maharashtra,West,Active
+538,Varun Joshi,Manager 011,Basic,2.2,Gujarat,West,Active
+539,Kunal Joshi,Manager 011,Expert,2.5,Goa,West,Active
+540,Swati Joshi,Manager 011,Intermediate,4.9,Karnataka,South,Active
+541,Amit Desai,Manager 011,Basic,2.0,Tamil Nadu,South,Active
+542,Rahul Desai,Manager 011,Expert,4.9,Telangana,South,Active
+543,Suresh Desai,Manager 011,Intermediate,2.8,Kerala,South,Active
+544,Vikram Desai,Manager 011,Expert,0.5,Andhra Pradesh,South,On Leave
+545,Rohit Desai,Manager 011,Expert,7.9,Delhi,North,Active
+546,Neha Desai,Manager 011,Intermediate,2.2,Uttar Pradesh,North,Active
+547,Priya Desai,Manager 011,Basic,4.8,Rajasthan,North,Active
+548,Anjali Desai,Manager 011,Intermediate,7.3,Punjab,North,Active
+549,Karan Desai,Manager 011,Intermediate,3.4,Haryana,North,Active
+550,Pooja Desai,Manager 011,Basic,5.4,West Bengal,East,Active
+551,Arjun Desai,Manager 012,Intermediate,4.4,Odisha,East,Active
+552,Sneha Desai,Manager 012,Expert,5.2,Bihar,East,Active
+553,Manish Desai,Manager 012,Basic,3.0,Jharkhand,East,Active
+554,Nikhil Desai,Manager 012,Intermediate,8.2,Assam,East,Active
+555,Riya Desai,Manager 012,Intermediate,3.9,Maharashtra,West,Active
+556,Akash Desai,Manager 012,Intermediate,3.9,Gujarat,West,Active
+557,Meera Desai,Manager 012,Intermediate,6.5,Goa,West,Active
+558,Varun Desai,Manager 012,Intermediate,8.3,Karnataka,South,Active
+559,Kunal Desai,Manager 012,Intermediate,6.6,Tamil Nadu,South,Active
+560,Swati Desai,Manager 012,Basic,8.1,Telangana,South,On Leave
+561,Amit Gupta,Manager 012,Expert,8.6,Kerala,South,Active
+562,Rahul Gupta,Manager 012,Expert,9.5,Andhra Pradesh,South,Active
+563,Suresh Gupta,Manager 012,Basic,6.4,Delhi,North,Active
+564,Vikram Gupta,Manager 012,Intermediate,4.5,Uttar Pradesh,North,Active
+565,Rohit Gupta,Manager 012,Intermediate,6.4,Rajasthan,North,Active
+566,Neha Gupta,Manager 012,Basic,5.4,Punjab,North,Active
+567,Priya Gupta,Manager 012,Expert,1.6,Haryana,North,Active
+568,Anjali Gupta,Manager 012,Expert,7.3,West Bengal,East,Active
+569,Karan Gupta,Manager 012,Expert,7.1,Odisha,East,Active
+570,Pooja Gupta,Manager 012,Expert,3.0,Bihar,East,Active
+571,Arjun Gupta,Manager 012,Expert,2.4,Jharkhand,East,Active
+572,Sneha Gupta,Manager 012,Expert,6.3,Assam,East,On Leave
+573,Manish Gupta,Manager 012,Basic,4.8,Maharashtra,West,Active
+574,Nikhil Gupta,Manager 012,Expert,4.8,Gujarat,West,Active
+575,Riya Gupta,Manager 012,Intermediate,6.2,Goa,West,Active
+576,Akash Gupta,Manager 012,Intermediate,6.8,Karnataka,South,Active
+577,Meera Gupta,Manager 012,Intermediate,9.5,Tamil Nadu,South,Active
+578,Varun Gupta,Manager 012,Intermediate,6.6,Telangana,South,Active
+579,Kunal Gupta,Manager 012,Basic,4.4,Kerala,South,Active
+580,Swati Gupta,Manager 012,Expert,5.0,Andhra Pradesh,South,Inactive
+581,Amit Mehta,Manager 012,Basic,8.2,Delhi,North,Active
+582,Rahul Mehta,Manager 012,Intermediate,3.9,Uttar Pradesh,North,Active
+583,Suresh Mehta,Manager 012,Intermediate,3.7,Rajasthan,North,Active
+584,Vikram Mehta,Manager 012,Intermediate,2.2,Punjab,North,Active
+585,Rohit Mehta,Manager 012,Expert,1.4,Haryana,North,Active
+586,Neha Mehta,Manager 012,Intermediate,2.2,West Bengal,East,Active
+587,Priya Mehta,Manager 012,Expert,3.0,Odisha,East,Active
+588,Anjali Mehta,Manager 012,Expert,0.5,Bihar,East,Active
+589,Karan Mehta,Manager 012,Intermediate,9.2,Jharkhand,East,Active
+590,Pooja Mehta,Manager 012,Intermediate,3.1,Assam,East,Active
+591,Arjun Mehta,Manager 012,Expert,5.5,Maharashtra,West,Active
+592,Sneha Mehta,Manager 012,Intermediate,2.9,Gujarat,West,Active
+593,Manish Mehta,Manager 012,Intermediate,9.7,Goa,West,Active
+594,Nikhil Mehta,Manager 012,Intermediate,9.7,Karnataka,South,Active
+595,Riya Mehta,Manager 012,Intermediate,5.0,Tamil Nadu,South,Active
+596,Akash Mehta,Manager 012,Basic,8.3,Telangana,South,Active
+597,Meera Mehta,Manager 012,Expert,7.4,Kerala,South,Active
+598,Varun Mehta,Manager 012,Intermediate,6.7,Andhra Pradesh,South,Active
+599,Kunal Mehta,Manager 012,Intermediate,2.9,Delhi,North,Active
+600,Swati Mehta,Manager 012,Intermediate,4.7,Uttar Pradesh,North,Active
+601,Amit Pawar,Manager 013,Expert,5.5,Rajasthan,North,Active
+602,Rahul Pawar,Manager 013,Intermediate,6.4,Punjab,North,Active
+603,Suresh Pawar,Manager 013,Basic,7.9,Haryana,North,Active
+604,Vikram Pawar,Manager 013,Intermediate,4.2,West Bengal,East,Active
+605,Rohit Pawar,Manager 013,Basic,1.5,Odisha,East,Active
+606,Neha Pawar,Manager 013,Basic,2.1,Bihar,East,Active
+607,Priya Pawar,Manager 013,Intermediate,0.5,Jharkhand,East,On Leave
+608,Anjali Pawar,Manager 013,Intermediate,5.4,Assam,East,Active
+609,Karan Pawar,Manager 013,Expert,4.1,Maharashtra,West,Active
+610,Pooja Pawar,Manager 013,Intermediate,6.0,Gujarat,West,Active
+611,Arjun Pawar,Manager 013,Basic,5.5,Goa,West,Active
+612,Sneha Pawar,Manager 013,Intermediate,4.1,Karnataka,South,Active
+613,Manish Pawar,Manager 013,Expert,5.9,Tamil Nadu,South,Active
+614,Nikhil Pawar,Manager 013,Expert,2.3,Telangana,South,Active
+615,Riya Pawar,Manager 013,Expert,2.6,Kerala,South,Active
+616,Akash Pawar,Manager 013,Expert,2.8,Andhra Pradesh,South,Active
+617,Meera Pawar,Manager 013,Intermediate,4.2,Delhi,North,Active
+618,Varun Pawar,Manager 013,Basic,8.9,Uttar Pradesh,North,Active
+619,Kunal Pawar,Manager 013,Basic,5.3,Rajasthan,North,Active
+620,Swati Pawar,Manager 013,Intermediate,2.2,Punjab,North,Active
+621,Amit Kulkarni,Manager 013,Basic,5.6,Haryana,North,Active
+622,Rahul Kulkarni,Manager 013,Expert,5.2,West Bengal,East,Active
+623,Suresh Kulkarni,Manager 013,Intermediate,7.2,Odisha,East,Inactive
+624,Vikram Kulkarni,Manager 013,Intermediate,2.7,Bihar,East,Active
+625,Rohit Kulkarni,Manager 013,Basic,1.7,Jharkhand,East,Inactive
+626,Neha Kulkarni,Manager 013,Intermediate,11.0,Assam,East,Active
+627,Priya Kulkarni,Manager 013,Basic,3.9,Maharashtra,West,Active
+628,Anjali Kulkarni,Manager 013,Expert,3.6,Gujarat,West,Active
+629,Karan Kulkarni,Manager 013,Intermediate,4.3,Goa,West,Active
+630,Pooja Kulkarni,Manager 013,Intermediate,5.4,Karnataka,South,Active
+631,Arjun Kulkarni,Manager 013,Intermediate,1.8,Tamil Nadu,South,On Leave
+632,Sneha Kulkarni,Manager 013,Expert,4.9,Telangana,South,Active
+633,Manish Kulkarni,Manager 013,Intermediate,9.4,Kerala,South,Active
+634,Nikhil Kulkarni,Manager 013,Basic,2.4,Andhra Pradesh,South,Active
+635,Riya Kulkarni,Manager 013,Expert,3.4,Delhi,North,Active
+636,Akash Kulkarni,Manager 013,Intermediate,4.9,Uttar Pradesh,North,Active
+637,Meera Kulkarni,Manager 013,Basic,7.9,Rajasthan,North,Active
+638,Varun Kulkarni,Manager 013,Intermediate,3.1,Punjab,North,Active
+639,Kunal Kulkarni,Manager 013,Expert,4.1,Haryana,North,Active
+640,Swati Kulkarni,Manager 013,Expert,6.3,West Bengal,East,Active
+641,Amit Yadav,Manager 013,Basic,4.8,Odisha,East,Active
+642,Rahul Yadav,Manager 013,Intermediate,3.2,Bihar,East,Active
+643,Suresh Yadav,Manager 013,Basic,7.6,Jharkhand,East,Active
+644,Vikram Yadav,Manager 013,Expert,6.3,Assam,East,On Leave
+645,Rohit Yadav,Manager 013,Intermediate,0.5,Maharashtra,West,Active
+646,Neha Yadav,Manager 013,Intermediate,5.5,Gujarat,West,Active
+647,Priya Yadav,Manager 013,Expert,6.9,Goa,West,Active
+648,Anjali Yadav,Manager 013,Basic,4.5,Karnataka,South,Active
+649,Karan Yadav,Manager 013,Expert,7.1,Tamil Nadu,South,Active
+650,Pooja Yadav,Manager 013,Intermediate,3.9,Telangana,South,Inactive
+651,Arjun Yadav,Manager 014,Basic,3.6,Kerala,South,Active
+652,Sneha Yadav,Manager 014,Intermediate,3.7,Andhra Pradesh,South,Active
+653,Manish Yadav,Manager 014,Intermediate,3.2,Delhi,North,Active
+654,Nikhil Yadav,Manager 014,Expert,5.5,Uttar Pradesh,North,Active
+655,Riya Yadav,Manager 014,Expert,5.7,Rajasthan,North,Active
+656,Akash Yadav,Manager 014,Intermediate,4.9,Punjab,North,Active
+657,Meera Yadav,Manager 014,Expert,2.0,Haryana,North,Active
+658,Varun Yadav,Manager 014,Intermediate,4.4,West Bengal,East,Active
+659,Kunal Yadav,Manager 014,Expert,3.0,Odisha,East,Active
+660,Swati Yadav,Manager 014,Expert,6.5,Bihar,East,Active
+661,Amit Nair,Manager 014,Expert,4.2,Jharkhand,East,Active
+662,Rahul Nair,Manager 014,Intermediate,0.5,Assam,East,Active
+663,Suresh Nair,Manager 014,Intermediate,3.8,Maharashtra,West,Active
+664,Vikram Nair,Manager 014,Expert,7.5,Gujarat,West,Active
+665,Rohit Nair,Manager 014,Basic,3.6,Goa,West,Active
+666,Neha Nair,Manager 014,Intermediate,4.0,Karnataka,South,Active
+667,Priya Nair,Manager 014,Intermediate,1.2,Tamil Nadu,South,Active
+668,Anjali Nair,Manager 014,Intermediate,8.1,Telangana,South,Inactive
+669,Karan Nair,Manager 014,Intermediate,5.9,Kerala,South,Active
+670,Pooja Nair,Manager 014,Intermediate,3.0,Andhra Pradesh,South,Active
+671,Arjun Nair,Manager 014,Basic,4.0,Delhi,North,Active
+672,Sneha Nair,Manager 014,Intermediate,6.3,Uttar Pradesh,North,Active
+673,Manish Nair,Manager 014,Intermediate,0.5,Rajasthan,North,Active
+674,Nikhil Nair,Manager 014,Basic,5.3,Punjab,North,Active
+675,Riya Nair,Manager 014,Intermediate,6.8,Haryana,North,Active
+676,Akash Nair,Manager 014,Intermediate,6.7,West Bengal,East,Active
+677,Meera Nair,Manager 014,Intermediate,2.6,Odisha,East,Active
+678,Varun Nair,Manager 014,Intermediate,5.4,Bihar,East,Active
+679,Kunal Nair,Manager 014,Intermediate,5.6,Jharkhand,East,Active
+680,Swati Nair,Manager 014,Intermediate,4.8,Assam,East,Active
+681,Amit Iyer,Manager 014,Expert,4.4,Maharashtra,West,Active
+682,Rahul Iyer,Manager 014,Intermediate,6.1,Gujarat,West,Active
+683,Suresh Iyer,Manager 014,Expert,7.2,Goa,West,Active
+684,Vikram Iyer,Manager 014,Expert,3.7,Karnataka,South,Active
+685,Rohit Iyer,Manager 014,Expert,2.7,Tamil Nadu,South,Active
+686,Neha Iyer,Manager 014,Basic,5.2,Telangana,South,Active
+687,Priya Iyer,Manager 014,Intermediate,1.0,Kerala,South,Active
+688,Anjali Iyer,Manager 014,Expert,6.9,Andhra Pradesh,South,Active
+689,Karan Iyer,Manager 014,Expert,6.1,Delhi,North,Active
+690,Pooja Iyer,Manager 014,Expert,7.2,Uttar Pradesh,North,Active
+691,Arjun Iyer,Manager 014,Basic,6.8,Rajasthan,North,Active
+692,Sneha Iyer,Manager 014,Intermediate,3.4,Punjab,North,Inactive
+693,Manish Iyer,Manager 014,Expert,3.2,Haryana,North,Active
+694,Nikhil Iyer,Manager 014,Intermediate,5.1,West Bengal,East,Active
+695,Riya Iyer,Manager 014,Basic,5.7,Odisha,East,Active
+696,Akash Iyer,Manager 014,Expert,6.6,Bihar,East,Active
+697,Meera Iyer,Manager 014,Intermediate,0.5,Jharkhand,East,Active
+698,Varun Iyer,Manager 014,Expert,3.3,Assam,East,Active
+699,Kunal Iyer,Manager 014,Expert,10.3,Maharashtra,West,Active
+700,Swati Iyer,Manager 014,Intermediate,2.2,Gujarat,West,Active
+701,Amit Reddy,Manager 015,Intermediate,2.6,Goa,West,Active
+702,Rahul Reddy,Manager 015,Intermediate,5.1,Karnataka,South,Active
+703,Suresh Reddy,Manager 015,Expert,8.7,Tamil Nadu,South,Active
+704,Vikram Reddy,Manager 015,Intermediate,6.5,Telangana,South,Active
+705,Rohit Reddy,Manager 015,Intermediate,3.9,Kerala,South,Active
+706,Neha Reddy,Manager 015,Basic,0.5,Andhra Pradesh,South,Active
+707,Priya Reddy,Manager 015,Expert,4.4,Delhi,North,Active
+708,Anjali Reddy,Manager 015,Intermediate,0.5,Uttar Pradesh,North,Active
+709,Karan Reddy,Manager 015,Intermediate,4.5,Rajasthan,North,Active
+710,Pooja Reddy,Manager 015,Intermediate,5.0,Punjab,North,Active
+711,Arjun Reddy,Manager 015,Basic,7.7,Haryana,North,Active
+712,Sneha Reddy,Manager 015,Intermediate,3.6,West Bengal,East,Active
+713,Manish Reddy,Manager 015,Expert,3.1,Odisha,East,Active
+714,Nikhil Reddy,Manager 015,Basic,4.5,Bihar,East,Active
+715,Riya Reddy,Manager 015,Intermediate,5.0,Jharkhand,East,Active
+716,Akash Reddy,Manager 015,Expert,7.7,Assam,East,Active
+717,Meera Reddy,Manager 015,Intermediate,1.6,Maharashtra,West,Active
+718,Varun Reddy,Manager 015,Expert,0.5,Gujarat,West,Active
+719,Kunal Reddy,Manager 015,Intermediate,7.3,Goa,West,On Leave
+720,Swati Reddy,Manager 015,Expert,3.6,Karnataka,South,Active
+721,Amit Das,Manager 015,Intermediate,5.4,Tamil Nadu,South,Active
+722,Rahul Das,Manager 015,Basic,3.5,Telangana,South,Active
+723,Suresh Das,Manager 015,Intermediate,2.8,Kerala,South,Active
+724,Vikram Das,Manager 015,Expert,4.2,Andhra Pradesh,South,Active
+725,Rohit Das,Manager 015,Basic,6.3,Delhi,North,Active
+726,Neha Das,Manager 015,Intermediate,4.6,Uttar Pradesh,North,Active
+727,Priya Das,Manager 015,Intermediate,5.5,Rajasthan,North,Active
+728,Anjali Das,Manager 015,Expert,6.9,Punjab,North,Active
+729,Karan Das,Manager 015,Expert,5.1,Haryana,North,Active
+730,Pooja Das,Manager 015,Basic,3.1,West Bengal,East,Active
+731,Arjun Das,Manager 015,Intermediate,11.7,Odisha,East,Active
+732,Sneha Das,Manager 015,Basic,3.8,Bihar,East,Active
+733,Manish Das,Manager 015,Intermediate,7.1,Jharkhand,East,Active
+734,Nikhil Das,Manager 015,Intermediate,8.2,Assam,East,Active
+735,Riya Das,Manager 015,Intermediate,2.6,Maharashtra,West,Active
+736,Akash Das,Manager 015,Intermediate,2.3,Gujarat,West,Active
+737,Meera Das,Manager 015,Expert,0.5,Goa,West,Active
+738,Varun Das,Manager 015,Intermediate,3.3,Karnataka,South,Active
+739,Kunal Das,Manager 015,Expert,2.5,Tamil Nadu,South,Active
+740,Swati Das,Manager 015,Intermediate,8.7,Telangana,South,Active
+741,Amit Mishra,Manager 015,Expert,2.6,Kerala,South,Active
+742,Rahul Mishra,Manager 015,Intermediate,3.9,Andhra Pradesh,South,Active
+743,Suresh Mishra,Manager 015,Intermediate,4.6,Delhi,North,Active
+744,Vikram Mishra,Manager 015,Intermediate,3.2,Uttar Pradesh,North,Active
+745,Rohit Mishra,Manager 015,Intermediate,9.7,Rajasthan,North,Active
+746,Neha Mishra,Manager 015,Intermediate,3.8,Punjab,North,Active
+747,Priya Mishra,Manager 015,Intermediate,4.7,Haryana,North,Active
+748,Anjali Mishra,Manager 015,Basic,6.0,West Bengal,East,Active
+749,Karan Mishra,Manager 015,Basic,0.5,Odisha,East,Active
+750,Pooja Mishra,Manager 015,Basic,4.1,Bihar,East,On Leave
+751,Arjun Mishra,Manager 016,Intermediate,5.6,Maharashtra,West,Active
+752,Sneha Mishra,Manager 016,Expert,7.3,Gujarat,West,Active
+753,Manish Mishra,Manager 016,Expert,1.2,Goa,West,Active
+754,Nikhil Mishra,Manager 016,Intermediate,1.3,Karnataka,South,Active
+755,Riya Mishra,Manager 016,Intermediate,8.9,Tamil Nadu,South,Active
+756,Akash Mishra,Manager 016,Intermediate,5.6,Telangana,South,Active
+757,Meera Mishra,Manager 016,Intermediate,1.8,Kerala,South,On Leave
+758,Varun Mishra,Manager 016,Intermediate,2.8,Andhra Pradesh,South,Active
+759,Kunal Mishra,Manager 016,Intermediate,4.6,Delhi,North,Active
+760,Swati Mishra,Manager 016,Intermediate,2.2,Uttar Pradesh,North,Active
+761,Amit Jain,Manager 016,Expert,5.7,Rajasthan,North,Active
+762,Rahul Jain,Manager 016,Intermediate,7.2,Punjab,North,Active
+763,Suresh Jain,Manager 016,Intermediate,4.9,Haryana,North,Active
+764,Vikram Jain,Manager 016,Intermediate,3.6,West Bengal,East,On Leave
+765,Rohit Jain,Manager 016,Expert,5.7,Odisha,East,Active
+766,Neha Jain,Manager 016,Basic,9.4,Bihar,East,Active
+767,Priya Jain,Manager 016,Basic,3.3,Jharkhand,East,Active
+768,Anjali Jain,Manager 016,Expert,7.2,Assam,East,Active
+769,Karan Jain,Manager 016,Intermediate,5.0,Maharashtra,West,Active
+770,Pooja Jain,Manager 016,Intermediate,6.0,Gujarat,West,Active
+771,Arjun Jain,Manager 016,Intermediate,6.6,Goa,West,Active
+772,Sneha Jain,Manager 016,Intermediate,3.2,Karnataka,South,Active
+773,Manish Jain,Manager 016,Intermediate,8.0,Tamil Nadu,South,Active
+774,Nikhil Jain,Manager 016,Intermediate,4.2,Telangana,South,On Leave
+775,Riya Jain,Manager 016,Intermediate,7.9,Kerala,South,Active
+776,Akash Jain,Manager 016,Basic,4.5,Andhra Pradesh,South,Active
+777,Meera Jain,Manager 016,Intermediate,10.8,Delhi,North,On Leave
+778,Varun Jain,Manager 016,Basic,5.5,Uttar Pradesh,North,Active
+779,Kunal Jain,Manager 016,Intermediate,7.4,Rajasthan,North,Active
+780,Swati Jain,Manager 016,Intermediate,7.8,Punjab,North,Active
+781,Amit Chavan,Manager 016,Expert,2.8,Haryana,North,On Leave
+782,Rahul Chavan,Manager 016,Basic,3.3,West Bengal,East,Inactive
+783,Suresh Chavan,Manager 016,Intermediate,3.7,Odisha,East,Active
+784,Vikram Chavan,Manager 016,Expert,7.1,Bihar,East,Active
+785,Rohit Chavan,Manager 016,Expert,6.1,Jharkhand,East,Active
+786,Neha Chavan,Manager 016,Intermediate,3.5,Assam,East,Active
+787,Priya Chavan,Manager 016,Expert,3.1,Maharashtra,West,Active
+788,Anjali Chavan,Manager 016,Basic,5.5,Gujarat,West,Active
+789,Karan Chavan,Manager 016,Intermediate,4.5,Goa,West,Active
+790,Pooja Chavan,Manager 016,Expert,3.6,Karnataka,South,On Leave
+791,Arjun Chavan,Manager 016,Basic,5.1,Tamil Nadu,South,Active
+792,Sneha Chavan,Manager 016,Basic,6.5,Telangana,South,Active
+793,Manish Chavan,Manager 016,Expert,4.6,Kerala,South,Active
+794,Nikhil Chavan,Manager 016,Intermediate,5.2,Andhra Pradesh,South,Active
+795,Riya Chavan,Manager 016,Intermediate,7.2,Delhi,North,On Leave
+796,Akash Chavan,Manager 016,Intermediate,3.4,Uttar Pradesh,North,Active
+797,Meera Chavan,Manager 016,Intermediate,1.1,Rajasthan,North,Active
+798,Varun Chavan,Manager 016,Expert,4.7,Punjab,North,Active
+799,Kunal Chavan,Manager 016,Intermediate,2.9,Haryana,North,Active
+800,Swati Chavan,Manager 016,Intermediate,5.8,West Bengal,East,Active
+801,Amit Sharma,Manager 017,Intermediate,3.4,Odisha,East,Active
+802,Rahul Sharma,Manager 017,Intermediate,5.5,Bihar,East,Active
+803,Suresh Sharma,Manager 017,Expert,5.6,Jharkhand,East,Active
+804,Vikram Sharma,Manager 017,Basic,8.4,Assam,East,Active
+805,Rohit Sharma,Manager 017,Intermediate,0.5,Maharashtra,West,Active
+806,Neha Sharma,Manager 017,Intermediate,4.9,Gujarat,West,Active
+807,Priya Sharma,Manager 017,Expert,3.4,Goa,West,Active
+808,Anjali Sharma,Manager 017,Expert,5.0,Karnataka,South,Active
+809,Karan Sharma,Manager 017,Expert,2.9,Tamil Nadu,South,Active
+810,Pooja Sharma,Manager 017,Intermediate,7.8,Telangana,South,Active
+811,Arjun Sharma,Manager 017,Expert,7.6,Kerala,South,Active
+812,Sneha Sharma,Manager 017,Intermediate,3.3,Andhra Pradesh,South,Active
+813,Manish Sharma,Manager 017,Intermediate,4.8,Delhi,North,Active
+814,Nikhil Sharma,Manager 017,Intermediate,10.0,Uttar Pradesh,North,Active
+815,Riya Sharma,Manager 017,Basic,6.3,Rajasthan,North,Active
+816,Akash Sharma,Manager 017,Expert,3.0,Punjab,North,Active
+817,Meera Sharma,Manager 017,Expert,2.4,Haryana,North,Active
+818,Varun Sharma,Manager 017,Expert,7.6,West Bengal,East,Active
+819,Kunal Sharma,Manager 017,Basic,6.0,Odisha,East,Active
+820,Swati Sharma,Manager 017,Intermediate,4.7,Bihar,East,Active
+821,Amit Patil,Manager 017,Intermediate,1.5,Jharkhand,East,Active
+822,Rahul Patil,Manager 017,Expert,1.5,Assam,East,Active
+823,Suresh Patil,Manager 017,Expert,4.0,Maharashtra,West,Active
+824,Vikram Patil,Manager 017,Intermediate,6.2,Gujarat,West,Active
+825,Rohit Patil,Manager 017,Intermediate,7.4,Goa,West,Active
+826,Neha Patil,Manager 017,Basic,9.0,Karnataka,South,Active
+827,Priya Patil,Manager 017,Expert,7.7,Tamil Nadu,South,Active
+828,Anjali Patil,Manager 017,Expert,1.6,Telangana,South,Active
+829,Karan Patil,Manager 017,Expert,2.8,Kerala,South,Active
+830,Pooja Patil,Manager 017,Basic,1.5,Andhra Pradesh,South,Active
+831,Arjun Patil,Manager 017,Intermediate,1.2,Delhi,North,Active
+832,Sneha Patil,Manager 017,Basic,2.2,Uttar Pradesh,North,Active
+833,Manish Patil,Manager 017,Intermediate,6.9,Rajasthan,North,Active
+834,Nikhil Patil,Manager 017,Basic,0.5,Punjab,North,Active
+835,Riya Patil,Manager 017,Expert,10.0,Haryana,North,Active
+836,Akash Patil,Manager 017,Expert,5.5,West Bengal,East,Active
+837,Meera Patil,Manager 017,Intermediate,4.4,Odisha,East,Active
+838,Varun Patil,Manager 017,Basic,5.5,Bihar,East,Active
+839,Kunal Patil,Manager 017,Expert,0.5,Jharkhand,East,Active
+840,Swati Patil,Manager 017,Basic,5.6,Assam,East,Active
+841,Amit Kumar,Manager 017,Intermediate,6.7,Maharashtra,West,Active
+842,Rahul Kumar,Manager 017,Intermediate,6.7,Gujarat,West,Active
+843,Suresh Kumar,Manager 017,Basic,3.1,Goa,West,Active
+844,Vikram Kumar,Manager 017,Expert,3.0,Karnataka,South,Active
+845,Rohit Kumar,Manager 017,Basic,6.3,Tamil Nadu,South,Active
+846,Neha Kumar,Manager 017,Intermediate,5.1,Telangana,South,Active
+847,Priya Kumar,Manager 017,Basic,5.8,Kerala,South,Active
+848,Anjali Kumar,Manager 017,Intermediate,2.5,Andhra Pradesh,South,Active
+849,Karan Kumar,Manager 017,Expert,1.8,Delhi,North,Active
+850,Pooja Kumar,Manager 017,Intermediate,8.9,Uttar Pradesh,North,Active
+851,Arjun Kumar,Manager 018,Expert,4.3,Rajasthan,North,Active
+852,Sneha Kumar,Manager 018,Expert,0.5,Punjab,North,Active
+853,Manish Kumar,Manager 018,Basic,2.3,Haryana,North,On Leave
+854,Nikhil Kumar,Manager 018,Intermediate,4.6,West Bengal,East,Active
+855,Riya Kumar,Manager 018,Intermediate,3.7,Odisha,East,Active
+856,Akash Kumar,Manager 018,Expert,5.6,Bihar,East,Active
+857,Meera Kumar,Manager 018,Intermediate,3.6,Jharkhand,East,Active
+858,Varun Kumar,Manager 018,Intermediate,4.8,Assam,East,Active
+859,Kunal Kumar,Manager 018,Basic,6.1,Maharashtra,West,Active
+860,Swati Kumar,Manager 018,Expert,5.9,Gujarat,West,Active
+861,Amit Singh,Manager 018,Expert,5.1,Goa,West,Active
+862,Rahul Singh,Manager 018,Intermediate,5.8,Karnataka,South,Active
+863,Suresh Singh,Manager 018,Basic,5.4,Tamil Nadu,South,Active
+864,Vikram Singh,Manager 018,Expert,5.1,Telangana,South,Active
+865,Rohit Singh,Manager 018,Expert,5.1,Kerala,South,Inactive
+866,Neha Singh,Manager 018,Expert,6.4,Andhra Pradesh,South,Active
+867,Priya Singh,Manager 018,Intermediate,2.6,Delhi,North,Active
+868,Anjali Singh,Manager 018,Intermediate,7.1,Uttar Pradesh,North,Active
+869,Karan Singh,Manager 018,Intermediate,5.0,Rajasthan,North,Active
+870,Pooja Singh,Manager 018,Basic,8.9,Punjab,North,Active
+871,Arjun Singh,Manager 018,Expert,6.6,Haryana,North,Active
+872,Sneha Singh,Manager 018,Intermediate,1.8,West Bengal,East,Active
+873,Manish Singh,Manager 018,Expert,4.6,Odisha,East,Active
+874,Nikhil Singh,Manager 018,Intermediate,2.8,Bihar,East,Active
+875,Riya Singh,Manager 018,Basic,3.1,Jharkhand,East,Active
+876,Akash Singh,Manager 018,Expert,1.1,Assam,East,Active
+877,Meera Singh,Manager 018,Expert,1.6,Maharashtra,West,Active
+878,Varun Singh,Manager 018,Expert,1.0,Gujarat,West,On Leave
+879,Kunal Singh,Manager 018,Intermediate,8.0,Goa,West,Active
+880,Swati Singh,Manager 018,Intermediate,3.5,Karnataka,South,Active
+881,Amit Shah,Manager 018,Intermediate,3.2,Tamil Nadu,South,Active
+882,Rahul Shah,Manager 018,Basic,3.5,Telangana,South,Active
+883,Suresh Shah,Manager 018,Intermediate,5.5,Kerala,South,Active
+884,Vikram Shah,Manager 018,Expert,4.5,Andhra Pradesh,South,Active
+885,Rohit Shah,Manager 018,Intermediate,6.4,Delhi,North,Active
+886,Neha Shah,Manager 018,Intermediate,11.6,Uttar Pradesh,North,Active
+887,Priya Shah,Manager 018,Expert,8.5,Rajasthan,North,Active
+888,Anjali Shah,Manager 018,Intermediate,4.0,Punjab,North,Active
+889,Karan Shah,Manager 018,Intermediate,3.6,Haryana,North,Active
+890,Pooja Shah,Manager 018,Intermediate,2.4,West Bengal,East,Active
+891,Arjun Shah,Manager 018,Basic,5.0,Odisha,East,Active
+892,Sneha Shah,Manager 018,Expert,6.8,Bihar,East,Active
+893,Manish Shah,Manager 018,Intermediate,7.6,Jharkhand,East,Active
+894,Nikhil Shah,Manager 018,Basic,6.9,Assam,East,Active
+895,Riya Shah,Manager 018,Intermediate,3.6,Maharashtra,West,Active
+896,Akash Shah,Manager 018,Basic,0.8,Gujarat,West,Active
+897,Meera Shah,Manager 018,Basic,6.7,Goa,West,Active
+898,Varun Shah,Manager 018,Expert,0.5,Karnataka,South,Active
+899,Kunal Shah,Manager 018,Intermediate,2.4,Tamil Nadu,South,Active
+900,Swati Shah,Manager 018,Expert,3.1,Telangana,South,On Leave
+901,Amit Verma,Manager 019,Intermediate,8.0,Kerala,South,Active
+902,Rahul Verma,Manager 019,Intermediate,7.1,Andhra Pradesh,South,Active
+903,Suresh Verma,Manager 019,Intermediate,7.2,Delhi,North,Active
+904,Vikram Verma,Manager 019,Intermediate,6.4,Uttar Pradesh,North,Active
+905,Rohit Verma,Manager 019,Expert,8.6,Rajasthan,North,Active
+906,Neha Verma,Manager 019,Basic,0.7,Punjab,North,Active
+907,Priya Verma,Manager 019,Expert,6.2,Haryana,North,Active
+908,Anjali Verma,Manager 019,Expert,3.6,West Bengal,East,Active
+909,Karan Verma,Manager 019,Intermediate,1.0,Odisha,East,Active
+910,Pooja Verma,Manager 019,Expert,7.0,Bihar,East,Active
+911,Arjun Verma,Manager 019,Intermediate,0.5,Jharkhand,East,On Leave
+912,Sneha Verma,Manager 019,Expert,5.4,Assam,East,Active
+913,Manish Verma,Manager 019,Expert,7.0,Maharashtra,West,Active
+914,Nikhil Verma,Manager 019,Expert,4.8,Gujarat,West,Active
+915,Riya Verma,Manager 019,Intermediate,3.7,Goa,West,Active
+916,Akash Verma,Manager 019,Intermediate,6.4,Karnataka,South,Inactive
+917,Meera Verma,Manager 019,Expert,7.6,Tamil Nadu,South,Active
+918,Varun Verma,Manager 019,Expert,7.3,Telangana,South,Active
+919,Kunal Verma,Manager 019,Intermediate,6.1,Kerala,South,Active
+920,Swati Verma,Manager 019,Intermediate,3.7,Andhra Pradesh,South,Active
+921,Amit Joshi,Manager 019,Expert,4.8,Delhi,North,Active
+922,Rahul Joshi,Manager 019,Expert,6.1,Uttar Pradesh,North,Active
+923,Suresh Joshi,Manager 019,Intermediate,9.5,Rajasthan,North,Active
+924,Vikram Joshi,Manager 019,Basic,5.1,Punjab,North,Active
+925,Rohit Joshi,Manager 019,Intermediate,2.5,Haryana,North,Active
+926,Neha Joshi,Manager 019,Basic,4.3,West Bengal,East,Active
+927,Priya Joshi,Manager 019,Intermediate,5.9,Odisha,East,Active
+928,Anjali Joshi,Manager 019,Intermediate,7.0,Bihar,East,Active
+929,Karan Joshi,Manager 019,Intermediate,5.2,Jharkhand,East,Active
+930,Pooja Joshi,Manager 019,Intermediate,3.4,Assam,East,Active
+931,Arjun Joshi,Manager 019,Intermediate,8.0,Maharashtra,West,Active
+932,Sneha Joshi,Manager 019,Basic,2.8,Gujarat,West,Active
+933,Manish Joshi,Manager 019,Intermediate,9.5,Goa,West,Active
+934,Nikhil Joshi,Manager 019,Basic,3.4,Karnataka,South,Active
+935,Riya Joshi,Manager 019,Expert,8.5,Tamil Nadu,South,Active
+936,Akash Joshi,Manager 019,Basic,7.9,Telangana,South,Active
+937,Meera Joshi,Manager 019,Expert,4.3,Kerala,South,Active
+938,Varun Joshi,Manager 019,Intermediate,3.7,Andhra Pradesh,South,Inactive
+939,Kunal Joshi,Manager 019,Basic,1.7,Delhi,North,Inactive
+940,Swati Joshi,Manager 019,Basic,5.2,Uttar Pradesh,North,Active
+941,Amit Desai,Manager 019,Expert,3.4,Rajasthan,North,Active
+942,Rahul Desai,Manager 019,Intermediate,9.3,Punjab,North,Active
+943,Suresh Desai,Manager 019,Intermediate,0.6,Haryana,North,Active
+944,Vikram Desai,Manager 019,Intermediate,4.7,West Bengal,East,On Leave
+945,Rohit Desai,Manager 019,Intermediate,4.8,Odisha,East,Active
+946,Neha Desai,Manager 019,Intermediate,5.5,Bihar,East,Active
+947,Priya Desai,Manager 019,Intermediate,8.0,Jharkhand,East,Active
+948,Anjali Desai,Manager 019,Intermediate,7.5,Assam,East,Active
+949,Karan Desai,Manager 019,Intermediate,4.5,Maharashtra,West,Active
+950,Pooja Desai,Manager 019,Expert,5.7,Gujarat,West,Active
+951,Arjun Desai,Manager 020,Intermediate,5.1,Goa,West,Active
+952,Sneha Desai,Manager 020,Intermediate,4.4,Karnataka,South,On Leave
+953,Manish Desai,Manager 020,Intermediate,4.0,Tamil Nadu,South,Active
+954,Nikhil Desai,Manager 020,Expert,6.1,Telangana,South,Active
+955,Riya Desai,Manager 020,Basic,2.8,Kerala,South,Active
+956,Akash Desai,Manager 020,Expert,4.6,Andhra Pradesh,South,Active
+957,Meera Desai,Manager 020,Intermediate,9.2,Delhi,North,Active
+958,Varun Desai,Manager 020,Intermediate,3.8,Uttar Pradesh,North,Active
+959,Kunal Desai,Manager 020,Intermediate,7.0,Rajasthan,North,Active
+960,Swati Desai,Manager 020,Basic,2.6,Punjab,North,Active
+961,Amit Gupta,Manager 020,Expert,3.3,Haryana,North,Active
+962,Rahul Gupta,Manager 020,Basic,2.8,West Bengal,East,Active
+963,Suresh Gupta,Manager 020,Expert,9.0,Odisha,East,Active
+964,Vikram Gupta,Manager 020,Expert,7.5,Bihar,East,Active
+965,Rohit Gupta,Manager 020,Expert,1.5,Jharkhand,East,Active
+966,Neha Gupta,Manager 020,Expert,5.5,Assam,East,Active
+967,Priya Gupta,Manager 020,Intermediate,4.5,Maharashtra,West,On Leave
+968,Anjali Gupta,Manager 020,Intermediate,3.5,Gujarat,West,Active
+969,Karan Gupta,Manager 020,Intermediate,7.0,Goa,West,Active
+970,Pooja Gupta,Manager 020,Expert,4.3,Karnataka,South,Active
+971,Arjun Gupta,Manager 020,Intermediate,7.1,Tamil Nadu,South,Active
+972,Sneha Gupta,Manager 020,Intermediate,2.5,Telangana,South,Active
+973,Manish Gupta,Manager 020,Expert,3.8,Kerala,South,Active
+974,Nikhil Gupta,Manager 020,Intermediate,0.6,Andhra Pradesh,South,Active
+975,Riya Gupta,Manager 020,Basic,7.0,Delhi,North,Active
+976,Akash Gupta,Manager 020,Expert,5.0,Uttar Pradesh,North,Active
+977,Meera Gupta,Manager 020,Intermediate,3.3,Rajasthan,North,Active
+978,Varun Gupta,Manager 020,Basic,3.8,Punjab,North,Active
+979,Kunal Gupta,Manager 020,Intermediate,5.3,Haryana,North,Active
+980,Swati Gupta,Manager 020,Basic,5.4,West Bengal,East,Active
+981,Amit Mehta,Manager 020,Intermediate,5.2,Odisha,East,Active
+982,Rahul Mehta,Manager 020,Intermediate,0.9,Bihar,East,Active
+983,Suresh Mehta,Manager 020,Expert,3.3,Jharkhand,East,Active
+984,Vikram Mehta,Manager 020,Expert,7.5,Assam,East,Active
+985,Rohit Mehta,Manager 020,Intermediate,6.8,Maharashtra,West,Active
+986,Neha Mehta,Manager 020,Basic,5.0,Gujarat,West,Active
+987,Priya Mehta,Manager 020,Intermediate,1.5,Goa,West,Active
+988,Anjali Mehta,Manager 020,Intermediate,5.0,Karnataka,South,Active
+989,Karan Mehta,Manager 020,Expert,4.0,Tamil Nadu,South,Active
+990,Pooja Mehta,Manager 020,Basic,9.0,Telangana,South,Active
+991,Arjun Mehta,Manager 020,Basic,2.4,Kerala,South,Active
+992,Sneha Mehta,Manager 020,Basic,6.9,Andhra Pradesh,South,Active
+993,Manish Mehta,Manager 020,Expert,5.3,Delhi,North,Active
+994,Nikhil Mehta,Manager 020,Basic,9.4,Uttar Pradesh,North,Active
+995,Riya Mehta,Manager 020,Basic,4.3,Rajasthan,North,Active
+996,Akash Mehta,Manager 020,Basic,6.1,Punjab,North,Active
+997,Meera Mehta,Manager 020,Intermediate,1.5,Haryana,North,Active
+998,Varun Mehta,Manager 020,Intermediate,6.5,West Bengal,East,Active
+999,Kunal Mehta,Manager 020,Intermediate,5.3,Odisha,East,Active
+1000,Swati Mehta,Manager 020,Intermediate,6.1,Bihar,East,Active
