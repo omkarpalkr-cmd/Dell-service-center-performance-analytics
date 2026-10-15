@@ -1,4 +1,4 @@
-## Dashboard Screenshots
+## Dashboard Screenshot
 
 ### 1. Overview Dashboard
 ![Service Center Dashboard Overview](screenshots/OverView.png)
