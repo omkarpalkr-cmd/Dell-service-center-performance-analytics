@@ -1,7 +1,7 @@
 ## Dashboard Screenshot
 
 ### 1. Overview Dashboard
-![Service Center Dashboard Overview](Dell-service-center-performance-analytics/screenshots/OverView.png)
+![Service Center Dashboard Overview](OverView.png)
 
 Provides an overview of service requests, resolution status, SLA compliance, and service performance.
 
